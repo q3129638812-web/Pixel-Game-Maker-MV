@@ -1,0 +1,5 @@
+{
+  "name": "PGMMV 蓝图与插件助手",
+  "description": "一个帮助你生成 Pixel Game Maker MV 引擎插件，以及批量复制对象行动框（蓝图）的工具。",
+  "requestFramePermissions": []
+}
